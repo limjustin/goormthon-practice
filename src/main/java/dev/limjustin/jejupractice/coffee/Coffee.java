@@ -1,4 +1,4 @@
-package dev.limjustin.jejupractice;
+package dev.limjustin.jejupractice.coffee;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

@@ -1,4 +1,4 @@
-package dev.limjustin.jejupractice;
+package dev.limjustin.jejupractice.coffee;
 
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
